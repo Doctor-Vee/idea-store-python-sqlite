@@ -1,2 +1,2 @@
-# idea-store-python-sqlite
-This is a simple app that helps you store ideas “as e dey hot”
+# idea-store-python-sql-lite
+This is a simple app that helps you store your awesome ideas. 
